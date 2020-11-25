@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\CRUD_App_csharp\CRUD_App_csharp\bin\Debug\CRUD_App_csharp.exe.config
+C:\Users\admin\source\repos\CRUD_App_csharp\CRUD_App_csharp\bin\Debug\CRUD_App_csharp.exe
+C:\Users\admin\source\repos\CRUD_App_csharp\CRUD_App_csharp\bin\Debug\CRUD_App_csharp.pdb
+C:\Users\admin\source\repos\CRUD_App_csharp\CRUD_App_csharp\obj\Debug\CRUD_App_csharp.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\CRUD_App_csharp\CRUD_App_csharp\obj\Debug\CRUD_App_csharp.Form1.resources
+C:\Users\admin\source\repos\CRUD_App_csharp\CRUD_App_csharp\obj\Debug\CRUD_App_csharp.Properties.Resources.resources
+C:\Users\admin\source\repos\CRUD_App_csharp\CRUD_App_csharp\obj\Debug\CRUD_App_csharp.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\CRUD_App_csharp\CRUD_App_csharp\obj\Debug\CRUD_App_csharp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CRUD_App_csharp\CRUD_App_csharp\obj\Debug\CRUD_App_csharp.exe
+C:\Users\admin\source\repos\CRUD_App_csharp\CRUD_App_csharp\obj\Debug\CRUD_App_csharp.pdb
